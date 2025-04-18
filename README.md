@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @OmarRaidan
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning software programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me oissr4@gmail.com
 
 <!---
